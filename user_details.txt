@@ -1,0 +1,12 @@
+iron,man,99,25,man@gmail.com,male
+Thor,rangnar,987,28,dog@gmail.com,male
+Captain,america,752,34,sdsd@gmail.com,male
+baba,yaga,55123,23,sdfs@gmail.com,male
+mama,yaga,97,12,sdsf@gmail.com,female
+Bjorn,ironside,768,20,madfgn@gmail.com,male
+Folk,builder,8192,29,gdfg@gmail.com,male
+Walter,white,54678,52,ewr@gmail.com,male
+Jesse,pinkman,1234,19,hgfds@gmail.com,male
+Mike,pence,8976,56,bfdsdf@gmail.com,male
+Teresa,mendoza,456789,32,rdfg@gmail.com,female
+kjihjiji,daszd,wqas,15,dasz,dszx
